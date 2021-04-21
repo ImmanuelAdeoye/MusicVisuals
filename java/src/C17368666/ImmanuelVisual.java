@@ -27,7 +27,7 @@ public class ImmanuelVisual extends Visual {
         loadAudio("heroplanet.mp3");
  
         // Call this instead to read audio from the microphone
-        startListening();
+        //startListening();
  
         wf = new WaveForm(this);
         abv = new AudioBandsVisual(this);
