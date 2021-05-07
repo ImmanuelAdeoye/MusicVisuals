@@ -7,22 +7,22 @@ public class Bubbles {
     MyVisual mv;
     float x;
     float y;
-    float ySpeed;
+    float Speed;
 
     public Bubbles(MyVisual mv)
     {
         this.mv = mv;
         this.x = mv.random(mv.width);
-        this.y = mv.random(-200, -100);
-        this.ySpeed = mv.random(4, 10);
+        this.y = mv.random(-250, -150);
+        this.Speed = mv.random(1, 6);
     }
     //291.1
     public void drop()
     {
-        y = y+ySpeed;
+        y = y+Speed;
         if(y > mv.height)
         {
-            y = mv.random(-200, -100);
+            y = mv.random(-250, -150);
         }
     }
 
