@@ -15,6 +15,7 @@ Student Number: C17368666
 In this assignment I had the task of creating a visual piece that would respond to music. Quoted as " Something beautiful to enjoy while listening to music", So I set out to create something that live up to this quote. So I needed to be able to put together something that is going to showcase what I have learnt from doing this module. To do this project and sucessfully create something beautiful, I would need to apply and use what I've throughout the semester and be creative with it to bring the vision to life. This assignment encourages thinking outside the box and challenges you to use what you've learnt and really utilise to showcase your level of skill and knowledge of it and of course also your creativity. 
 
 What I made:
+For this assignment I have used he song business by Tiesto where I have the title at the top and the vinyl record below it. Then I have two spheres spinning on either side of the vinyl which are responsive to the music. Then, I also have bubbles falling from the top and at the bottom of the vinyl I have a waveform visual that is also responsive to the music. Lastly, I've finished it off with a nice little graphic for the background.
 
 # Instructions
 - Run the program 
@@ -29,7 +30,7 @@ What I made:
 4. Then watch the visual till the end.
 
 # What I am most proud of in the assignment
-What I'm most proud of is actually putting this assignment together. Java isn't really strong point so what I'm most proud is actually being able to have challenged myself and be able to put this together. To be able to challenge myself and be able to make something that really tested my knowledge and ability when it comes to java. 
+What I'm most proud of is actually putting this assignment together. Java isn't really strong point so what I'm most proud is actually being able to have challenged myself and be able to put this together. To be able to challenge myself and be able to make something that really tested my knowledge and ability when it comes to java. So what I'm most proud is my ability to push myself to produce this work even though I struggle with java because it shows me that if I can really focus and push myself I can always achieve something no matter how big or small it is.
 
 # Markdown Tutorial
 
