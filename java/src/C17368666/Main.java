@@ -1,4 +1,4 @@
-package ie.tudublin;
+package C17368666;
 
 import example.CubeVisual;
 import example.MyVisual;

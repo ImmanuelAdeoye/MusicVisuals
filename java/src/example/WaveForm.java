@@ -24,8 +24,11 @@ public class WaveForm
                 , 255
                 , 255
             );
-
-            mv.line(i, cy, i, cy + cy * mv.getAudioBuffer().get(i));
+            
+            float y1 = mv.height*0.9f;
+            float border = mv.width*0.3f;
+            float x1 = PApplet.map(i, 0, mv.getAudioBuffer().size(), border, mv.width-border);
+            mv.line(x1, y1, x1, y1 + 50 * mv.getAudioBuffer().get(i));
         }
     }
 }

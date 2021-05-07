@@ -1,4 +1,4 @@
-package ie.tudublin;
+package C17368666;
 
 import processing.core.PApplet;
 import ddf.minim.*;
@@ -144,3 +144,4 @@ public abstract class Visual extends PApplet
 		return fft;
 	}
 }
+

@@ -1,6 +1,6 @@
 package example;
 
-import ie.tudublin.Visual;
+import C17368666.Visual;
 
 public class CubeVisual extends Visual
 {
@@ -87,4 +87,4 @@ public class CubeVisual extends Visual
         angle += 0.01f;
     }
     float angle = 0;
-} 
+}
